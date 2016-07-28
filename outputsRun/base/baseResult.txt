@@ -1,0 +1,3 @@
+hagneau : 
+
+balanced classification accuracy = 50.29%

@@ -1,0 +1,4 @@
+sigmoid activation function. hidden = 1. learning = 0.6
+dimensionality = 5
+spread = 1.5
+decay rate = 0.3
