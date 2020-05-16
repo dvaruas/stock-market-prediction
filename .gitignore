@@ -1,2 +1,13 @@
 *.pyc
 *.swp
+
+# For the tex files
+*.aux
+*.bbl
+*.blg
+*.log
+*.spl
+*.synctex.gz
+*.lof
+*.lot
+*.toc
